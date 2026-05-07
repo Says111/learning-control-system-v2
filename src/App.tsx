@@ -8,7 +8,7 @@ const styles = {
   box: {
     background: "theme.palette.background.default",
     height: "100vh",
-    width: "100vw",
+    width: "100%",
     display: "flex",
     alignItems: "center",
     justifyContent: "center",

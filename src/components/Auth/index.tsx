@@ -194,7 +194,7 @@ const Auth = () => {
         </Box>
       </Box>
       <Box sx={styles.imageBox}>
-        <img src={picture} style={styles.image} />
+        <Box component="img" src={picture} sx={styles.image} />
       </Box>
     </Box>
   );
